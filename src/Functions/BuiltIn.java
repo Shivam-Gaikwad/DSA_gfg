@@ -11,7 +11,7 @@ public class BuiltIn {
         System.out.println(x);
 
         double x1 = Math.cbrt(100);
-        System.out.println(x);
+        System.out.println(x1);
 
         System.out.println(Math.abs(-3456));
         System.out.println(Math.floor(-7.6));  //-7
